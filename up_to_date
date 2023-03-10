@@ -1,0 +1,8 @@
+git config: This command configures the user name and email address to be used with your commits13.
+git init: This command creates a new local repository13.
+git clone: This command copies a remote repository to your local machine13.
+git add: This command adds files or changes to the staging area13.
+git commit: This command records your changes to the local repository13.
+git status: This command shows the state of your working directory and staging area13.
+git push: This command uploads your local commits to a remote repository13.
+git pull: This command downloads changes from a remote repository and merges them with your local branch1
